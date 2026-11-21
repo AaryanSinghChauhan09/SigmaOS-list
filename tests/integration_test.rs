@@ -1,4 +1,4 @@
-use arch_list::Component;
+use sigmaos_list::Component;
 
 #[test]
 fn test_component_new_aaa() {
